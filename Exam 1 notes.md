@@ -649,7 +649,6 @@
     *   **Data logs**
         *   If you’re working on a task that already involves a lot of automatic logging, like web surfing, you could try to get some logs of user interaction that have already been generated.
     *   **Advantages of each needfinding method**:
-    *   ![screenshot](/images_Exam1/image7.png)
 
 
 **[GOAL #3] Students will understand the types of data gathered during needfinding exercises.**
