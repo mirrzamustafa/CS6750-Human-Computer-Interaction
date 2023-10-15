@@ -80,7 +80,6 @@
 *   **[IDEA] Computer-supported cooperative work**: how can we use computers to support people working together?
     *   The CSCW community often breaks things down into two dimensions: time and place
     *   We can think of design as whether we’re designing for users in the same time and place or at different times and in different places
-    * ![screenshot](/images_Exam1/image3.png)
     *   Think of CSCW as mediating cooperation across traditional geographical and temporal borders, but it can also help with colocated simultaneous cooperation
     *   **Examples**: museum asking visitors for their location (same place, different times) / Dr. Joyner recording a video and us watching it (diff place, diff time) / Slack (diff place, same time)
 *   **[IDEA] Social computing**: how computers affect the way we interact and socialize
@@ -207,7 +206,6 @@
             *   Becomes more difficult to isolate the effect of our changes
 *   We’ll likely use all these models at different times and in different contexts, and the data we gather from one will inform interface changes that might be tested in another
 *   The results of each design phase inform the next, and different phases call for different types of evaluation, which echo different models of the user.
-* ![screenshot](/images_Exam1/image5.png)
 
 
 
@@ -297,7 +295,6 @@
         *   Whenever possible, let the user feel like they’re directly manipulating things in the system
 
 **Related to both gulfs:**
-* ![screenshot](/images_Exam1/image6.png)
 
 
 
@@ -369,7 +366,6 @@
 *   Over the decades, user experience design really has become a major differentiator between success and failure.
 
 **[GOAL #3] Students will understand the design life cycle.**
-* ![screenshot](/images_Exam1/image1.png)
 
 
 
@@ -705,7 +701,6 @@
     *   _Example_: moving files with a mouse is great, but there is a gulf of execution and evaluation for novice users => modern touch screens make direct manipulation more direct than ever
 *   This gives us a nice general heuristic to keep in mind: **how do we help the user interact most closely with the target of their task**? How do we make it so they’re manipulating it as directly as possible?
 *   The feeling of directness is inversely proportional to the amount of cognitive effort it takes to manipulate and evaluate a system
-*   ![screenshot](/images_Exam1/image4.png)
 
     
     *   In other words, the more cognitive load required to use the system, the less direct the interaction feels.
