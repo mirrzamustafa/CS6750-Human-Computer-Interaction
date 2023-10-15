@@ -648,9 +648,6 @@
         *   For example, there are dozens of alarm clock apps out there, and thousands of reviews. If you wanted to design a new one, you could start there to find out what people need.
     *   **Data logs**
         *   If you’re working on a task that already involves a lot of automatic logging, like web surfing, you could try to get some logs of user interaction that have already been generated.
-    *   **Advantages of each needfinding method**:
-    *   ![screenshot](/images_Exam1/image7.png)
-
 
 **[GOAL #3] Students will understand the types of data gathered during needfinding exercises.**
 
@@ -968,7 +965,6 @@
     *   In some ways, this is a similar process to using the personas we outlined earlier, but with a subtle difference.
         *   Personas are personal and meant to give us an empathetic view of the user experience.
         *   User models are more objective and meant to give us a measurable and comparable view of the user experience.
-        *   ![screenshot](/images_Exam1/image2.png)
 
 ---
 
